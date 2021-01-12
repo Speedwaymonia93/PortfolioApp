@@ -1,0 +1,52 @@
+[
+
+    {
+        "id": 0,
+        "name": "HTML",
+        "percentageValue": "80%",
+        "img":"./icons/html5.svg"
+    },
+    {
+        "id": 1,
+        "name": "CSS",
+        "percentageValue": "70%",
+        "img":"./icons/css-3.svg"
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "percentageValue": "50%",
+        "img":"./icons/javascript.png"
+    },
+    {
+        "id": 3,
+        "name": "React.js",
+        "percentageValue": "50%",
+        "img":"./icons/react.svg"
+    },
+    {
+        "id": 4,
+        "name": "Bootstrap",
+        "percentageValue": "50%",
+        "img":"./icons/bootstrap.svg"
+    },
+    {
+        "id": 5,
+        "name": "Git",
+        "percentageValue": "20%",
+        "img":"./icons/git.svg.png"
+    },
+    {
+        "id": 6,
+        "name": "Node.js",
+        "percentageValue": "20%",
+        "img":"./icons/node.svg.png"
+    },
+    {
+        "id": 7,
+        "name": "Express.js",
+        "percentageValue": "10%",
+        "img":"./icons/expressjs.jpg"
+    }
+
+]

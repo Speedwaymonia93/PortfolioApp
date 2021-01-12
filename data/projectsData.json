@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "projectTitle": "E-commerce site",
+        "projectDescription": "A simple yet colorful example of the e-commerce site for a local small business.",
+        "image":"./projectImages/online-shop.svg"
+    },
+    {
+        "id":1,
+        "projectTitle": "API page",
+        "projectDescription": "Recipie app with the use of REST API to store your favourite recipies.",
+        "image":"./projectImages/api.svg"
+    },
+    {
+        "id":2,
+        "projectTitle": "Landing page",
+        "projectDescription": "Small, local business need a tidy, clean and user-friendly page to show up.",
+        "image":"./projectImages/restaurant.svg"
+    },
+    {
+        "id":3,
+        "projectTitle": "Weather app",
+        "projectDescription": "App showing current weather most important info in the location of the user.",
+        "image":"./projectImages/cloudy.svg"
+    },
+    {
+        "id":4,
+        "projectTitle": "Quiz app",
+        "projectDescription": "A prototype of an app to learn italian language every day with short exercises.",
+        "image": "./projectImages/quiz.svg"
+    }
+]

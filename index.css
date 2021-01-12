@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Caveat+Brush&family=Montserrat:wght@400;500;700&display=swap');
+
+body{
+	font-family: 'Caveat Brush', cursive;
+	background: linear-gradient(to right bottom, #ffe6cc, #ffe6e6, #b3d9ff, #ccffff);
+	height: 1050vh;
+	margin:0;
+	padding:0;
+}

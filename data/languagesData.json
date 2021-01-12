@@ -1,0 +1,35 @@
+ 
+ [
+    {
+        "id":0,
+        "language": "English",
+        "level":5,
+        "img":"./icons/uk.svg"
+    },
+    {
+        "id":1,
+        "language": "Spanish",
+        "level":5,
+        "img": "./icons/spain.svg"
+    },
+    {
+        "id":2,
+        "language": "Italian",
+        "level":4,
+        "img":"./icons/italy.svg"
+    },
+    {
+        "id":3,
+        "language": "French",
+        "level":3,
+        "img": "./icons/france.svg"
+    },
+    {
+        "id":4,
+        "language": "Portuguese",
+        "level":2,
+        "img": "./icons/portugal.svg"
+    }
+
+]
+

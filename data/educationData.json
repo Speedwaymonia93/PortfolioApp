@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "time": "October 2019 - June 2020",
+        "titleOfStudies": "Postgraduate Studies in Computer Programming and Applications",
+        "insitution": "Design and development of applications for the .NET platform. At the Nicolaus Copernicus University, the Faculty of Physics, Astronomy and Informatics."
+    },
+    {
+        "id": 1,
+        "time": "October 2016 - June 2019",
+        "titleOfStudies": "Applied Linguistics, English with French",
+        "insitution": "University of Warsaw, The Institute of Applied Linguistics (ILS)"
+    },
+    {
+        "id": 2,
+        "time": "October 2013 - June 2016",
+        "titleOfStudies": "Applied Linguistics, Spanish with Italian",
+        "insitution": "Nicolaus Copernicus University in Toruń, Faculty of Humanities"
+    },
+    {
+        "id":3,
+        "time":"September 2009 - April 2012",
+        "titleOfStudies": "Class with mathematical and IT profile",
+        "insitution": "V John Paul II High School in Toruń"
+    }
+]
